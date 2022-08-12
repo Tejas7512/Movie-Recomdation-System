@@ -8,10 +8,10 @@ In this project, I examined a dataset and then shared the results. To simplify t
 
 # The following libraries are also required, along with a Python installation:
 
-pandas
-NumPy
-Matplotlib
-csv
+1) pandas
+2) NumPy
+3) Matplotlib
+4) csv
 
 # What issues did I look into?
 
